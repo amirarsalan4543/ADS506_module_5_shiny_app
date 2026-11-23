@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .claude/
 .cursor/
+*.png
+*.pdf
 M5_Suggested Workflow.docx
-Week5_Submission_Template.pdf
 Week5_Submission_Template.qmd
