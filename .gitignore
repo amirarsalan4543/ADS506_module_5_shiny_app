@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.claude/
+.cursor/
+M5_Suggested Workflow.docx
+Week5_Submission_Template.pdf
+Week5_Submission_Template.qmd
